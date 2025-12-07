@@ -20,5 +20,5 @@ blog:<a href="https://tooleroflight.blog.jp/">[https://tooleroflight.blog.jp/](h
 The layouts provided in this repository are designed specifically for the Japanese game client.<br>
 If you are using a client in another language, please be aware that some triggers may not work correctly by default, and you will need to configure them manually.<br>
 I'm a layout creator for Splatoon.
-If you find my layouts helpful, please consider supporting me!
+If you find my layouts helpful, please consider supporting me!<br>
 <a href="https://ko-fi.com/tooleroflight">[https://ko-fi.com/tooleroflight](https://ko-fi.com/tooleroflight)</a>
